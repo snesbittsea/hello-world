@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-QAll your base are belong to us
+All your base are belong to us
